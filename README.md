@@ -1,2 +1,3 @@
-# bootdev-python-books-cli
-Learning python with boot.dev
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
